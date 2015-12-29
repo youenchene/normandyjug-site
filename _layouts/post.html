@@ -1,0 +1,14 @@
+{% include header.html %}
+      <h2>{{page.title}}</h2>
+      <div style="margin: 15px 0px;">
+    <span class="label label-default">{{  page.date | date: "%d/%m/%Y" }}</span>
+    <div class="pull-right" >
+    {% for category in page.categories %}
+      <span class="label label-info">{{category}}</span>
+    {% endfor %}
+  </div>
+</div>
+	  <div class="content">
+	    {{  content }}
+	  </div>
+{% include footer.html %}

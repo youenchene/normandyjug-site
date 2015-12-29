@@ -1,0 +1,169 @@
+---
+author: youen.chene
+comments: true
+date: 2010-10-24 19:21:43+00:00
+layout: post
+slug: programme-2010-2011
+title: Le programme 2010-2011 du Normandy Jug
+wordpress_id: 467
+categories:
+- News
+---
+
+Bonjour à tous, 
+
+
+
+Après une très longue pause, le **NormandyJUG** repart de plus belle ! 
+
+
+
+
+Vous l'attendiez avec impatience, voici le programme provisoire des prochaines sessions :
+
+
+
+
+### **Mercredi 27 Octobre  2010 à 13h30 au CESI : Rouen Agile Tour 2010**
+
+
+
+
+_Nous laissons place à l'étape rouennaise de l'agile tour pour ce premier mois._
+
+
+
+
+Après le succès l’Agile Tour 2009 lors de laquelle plus de 2500 personnes avaient assisté à 18 sessions à travers le monde, cette année le petit frère du NormandyJUG, le **Normandy Agile User Group** (NAUG) se mobilise en organisant une étape au CESI le 27 octobre 2010.
+
+
+
+
+Inscriptions et renseignements sur le NAUG => [http://www.agiletour.org/fr/at2010_rouen.html](http://www.agiletour.org/fr/at2010_rouen.html)
+
+
+
+
+### **Mardi 16 Novembre 2010 à 19h au CESI : Dojo BPM avec Bonita**
+
+
+
+
+Nous vous donnons rendez-vous pour une session technique et interactive avec **Rodrigue Le Gall** qui va faire participer toute la salle pour vous permettre de découvrir la solution de **Business Process Management Bonita** !
+
+
+
+
+### **Mardi 14 Décembre 2010 à 19h au CESI : HTML 5 et Git**
+
+
+
+
+**_**Alain Duval **_**qui est passé par le ParisJUG, présentera les nouveautés de **HTML5** pour vos applications web.
+
+
+
+
+_En cours de confirmation : _**David Gageot** devrait vous présenter le gestionnaire de sources **GIT** qui va mettre vos SVN et CVS à la poubelle.
+
+
+
+
+### **Janvier et/ou Février**
+
+
+
+
+
+
+****_A Confirmer : _****
+
+
+
+
+
+
+
+
+
+
+	
+  * _Tapestry_ par Christophe Cordenier de [wookicentral.com](http://wookicentral.com/)
+
+	
+  * _SpringBatch_ par Jean-Philippe Briend
+
+
+
+
+
+
+
+### **Mardi 15 Mars 2011 à 19h : Les annotations Java**
+
+
+
+
+C'est **Olivier Croisier** de chez Zenika qui fait le tour de JUGs et n'oublie pas la Normandie, pour présenter les annotations en Java.
+
+
+
+
+### **Et après ?**
+
+
+Comme d’habitude pleins d'autres sujets nous titillent, en voici quelques uns que nous voudrions voir abordés au NormandyJUG:
+
+
+
+	
+  * NoQSL
+
+	
+  * Scala / Lift
+
+	
+  * Technologies Spring 
+
+	
+  * Technologies Google
+
+	
+  * Cloud computing
+
+
+
+
+Si vous souhaitez présenter un sujet de votre choix n'hésitez pas à nous contacter. Les sessions peuvent durer de 20mn à 2h.
+
+
+
+
+Si vous souhaitez voir un sujet abordé, venez le proposer à l'équipe du Jug !
+
+
+
+
+### **L'équipe du JUG s'agrandie ****:**
+
+
+
+
+Par ailleurs nous tenions à vous signaler que l'équipe s'est agrandie officiellement en incorporant **Youen Chéné** ([http://www.driveo.fr](http://www.driveo.fr/), [http://www.fermiersdacote.fr/](http://www.fermiersdacote.fr/) ...) au bureau permanent du JUG.
+
+
+
+
+Vous  avez déjà pu écouter Youen lors de plusieurs de nos conférences passées  (sur GWT et sur l'ESB Petals notamment) et qui continue de prendre  activement part à la vie du JUG.
+Vous trouverez toutes les informations complémentaires ainsi que les présentations de la saison 2009-2010 sur le [**site du Normandy Jug**](../) et le [**twitter**](http://twitter.com/normandyjug).
+
+
+
+
+
+@ très bientôt !
+
+
+
+
+**L'équipe du NormandyJUG**

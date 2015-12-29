@@ -1,0 +1,19 @@
+---
+author: yann.petit
+comments: true
+date: 2010-09-03 20:15:20+00:00
+layout: post
+slug: devoxx-2010
+title: Devoxx 2010
+wordpress_id: 457
+categories:
+- News
+tags:
+- Devoxx
+---
+
+Comme l'an dernier, le NormandyJUG ainsi que beaucoup d'autres JUG est partenaire de Devoxx !
+
+Devoxx, anciennement nommé JavaPolis est le plus grand salon européen indépendant sur les technologies Java. Il se déroule chaque année depuis 2002 vers la fin de l'année civile, en Belgique, à Anvers. Cette conférence annuelle a été créée par Stephan Janssen, chairman du BeJUG.
+
+N'hésitez pas à vous inscrire à la [newsletter](http://www.devoxx.com/display/Devoxx2K10/News) pour être tenus au courant des actualités de Devoxx.

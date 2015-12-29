@@ -1,0 +1,18 @@
+---
+author: nicogiard
+comments: true
+date: 2010-01-01 13:06:52+00:00
+layout: post
+slug: bonne-annee-2010
+title: Bonne année 2010
+wordpress_id: 142
+categories:
+- Vie du JUG
+tags:
+- Vie du JUG
+---
+
+[![](http://www.normandyjug.org/wp-content/uploads/2010/01/happynewyear-normandyjug.jpg)](http://www.normandyjug.org/wp-content/uploads/2010/01/happynewyear-normandyjug.jpg)
+
+
+_Designed by Harok_

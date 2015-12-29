@@ -1,0 +1,65 @@
+---
+author: yann.petit
+comments: true
+date: 2010-11-25 16:30:27+00:00
+layout: post
+slug: html5-git
+title: HTML5 & GIT
+wordpress_id: 595
+categories:
+- Soirée
+tags:
+- GIT
+- HTML5
+- jug
+- Soirée
+---
+
+## Soirée de fin d'année 2010 exceptionnelle !
+
+
+Venez nombreux** le mardi 14 décembre à partir de 19h00** à [l'eXia/CESI de Rouen/Mont Saint Aignan](http://maps.google.fr/maps?oe=utf-8&rls=com.ubuntu:en-US:official&client=firefox-a&um=1&ie=UTF-8&q=eXia+CESI+Rouen&fb=1&gl=fr&hq=eXia+CESI&hnear=Rouen&cid=0,0,14303900307713815448&ei=VLLMSrNth5OMB4j5_YIH&sa=X&oi=local_result&ct=image&resnum=1)
+Avec deux sujets phare du moment, le Normandy JUG termine l'année en beauté !
+
+
+### HTML5 & GIT
+
+
+
+
+
+## Inscriptions Obligatoire sur [JugEvents.org](http://jugevents.org/jugevents/event/32001)
+
+
+
+<!-- more -->
+
+
+### HTML5
+
+
+HTML tout le monde connait, HTML ça n'a pas changé depuis 1998, HTML5 c'est une sacré révolution !
+Pour tout connaitre de ce que HTML5 apporte de nouveau venez nombreux !
+![HTML5 logo](http://www.android-pour-les-nuls.fr/images/stories/actualites/_2010-10/html-5-logo.jpg)
+Présenté par **Alain Duval** qui a déjà fait un passage au [ParisJUG](http://www.parisjug.org).
+Directeur technique chez [Objectif informatique](http://www.objectif-informatique.fr/).
+Intervenant en conseil & expertise JAVA EE, il se partage entre le développement des offres (Android, GWT2, Software Factory, Performance) auprès des clients &  la diffusion des connaissances en interne.
+
+
+### GIT
+
+
+GIT c'est quoi ? Pour le savoir il faudra venir au NormandyJUG, mais en quelques mots c'est le Gestionnaire de Contrôle de Sources distribué qui va reléguer vos VSS/CVS et SVN aux oubliettes !
+![GIT logo](http://www.linux.efrei.fr/_media/tutoriaux/git-logo.png)
+Présenté par **[David Gageot](http://blog.javabien.net/)**, évangéliste GIT en France puisqu'il fait la tournée des JUGS depuis quelques temps maintenant et CTO d'[Algodeal](http://algodeal.com/).
+David Gageot est directeur technique chez Algodeal, un fond d’investissement quantitatif. David participe à des projets Java depuis 1998, comme responsable des développements chez l’éditeur Adesoft puis comme expert Java et Scrum Master certifié chez Valtech. Il a pour leitmotiv d’être un facilitateur qui, par sa créativité et son expertise, aide les équipes à être plus innovantes et plus efficaces.
+
+
+* * *
+
+
+Pour cette soirée, nous accueillons un nouveau sponsors avec [ZeroTurnAround](http://www.zeroturnaround.com/) les créateurs de [JRebel](http://www.zeroturnaround.com/jrebel/) un plugin pour la JVM qui permet le rechargement à chaud de toutes modifications de code !  => Ne compilez/déployez plus, codez et testez :)
+Qui nous donnent la possibilité d'offrir des licences JRebel !!! 
+![JRebel logo](http://www.zeroturnaround.com/wp-content/themes/zeroturnaround4.0/gfx/i_jrebel_logo.png)
+
+

@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{page.title}} - {{site.title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+      <div class="container">
+      <div class="page-header">
+        <img src="/assets/img/juggy.png" width=150 height=150 alt="Logo normandy jug" class="juggy pull-right"/>
+        <div class="title-part" >
+          <h1><a href="/">{{site.title}}</a></h1>
+          <p class="lead">{{site.description}}</p>
+        </div>
+
+        <nav class="navbar navbar-default">
+           <div class="container-fluid">
+             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+               <ul class="nav navbar-nav">
+                 <li><a href="/">Accueil</a></li>
+                 <li class="dropdown">
+                   <a href="/rencontres-passees/" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">JUG - Soirées <span class="caret"></span></a>
+                   <ul class="dropdown-menu">
+                     <li><a href="/rencontres-passees/2013-2">2013</a></li>
+                     <li><a href="/rencontres-passees/2012-2">2012</a></li>
+                     <li><a href="/rencontres-passees/2011-2">2011</a></li>
+                     <li><a href="/rencontres-passees/2010-2">2010</a></li>
+                     <li><a href="/rencontres-passees/2009-2">2009</a></li>
+                   </ul>
+                 </li>
+                 <li class="dropdown">
+                   <a href="/naug/" class="dropdown-toggle" data-hover="dropdown"  role="button" aria-haspopup="true" aria-expanded="false">NAUG <span class="caret"></span></a>
+                   <ul class="dropdown-menu">
+                     <li><a href="/naug/atrouen-2010/">2010</a></li>
+                     <li><a href="/naug/agile-tour-rouen-2011/">2011</a></li>
+                     <li><a href="/naug/agile-tour-rouen-2012/">2012</a></li>
+                   </ul>
+                 </li>
+                 <li><a href="/a-propos">A propos</a></li>
+                 <li><a href="/sponsoring">Sponsors</a></li>
+               </ul>
+               <div >
+                 <ul class="nav navbar-nav navbar-right">
+                   <li><a href="https://twitter.com/normandyjug" ><img src="/assets/img/twitter.png" height=20  alt="twitter"/>@normandyjug</a></li>
+                   <li><a href="http://groups.google.com/group/normandyjug" ><img src="/assets/img/googlegroup.png" height=20  alt="google group"/>Google Groupe</a></li>
+                   <li><a href="https://www.youtube.com/channel/UCPgk36RzaslWVVkF3k1ZdzQ" ><img src="/assets/img/youtube.png" height=20  alt="youtube"/>Youtube</a></li>
+                   <li><a href="/feed.xml" ><img alt="rss" src="/assets/img/rss.png" /> Flux RSS</a></li>
+                 </ul>
+              </div>
+           </div>
+        </div>
+      </nav>
+    </div>

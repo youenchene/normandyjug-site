@@ -1,0 +1,30 @@
+---
+author: yann.petit
+comments: true
+date: 2010-11-19 09:42:33+00:00
+layout: post
+slug: devoxx-2010-2
+title: Devoxx 2010
+wordpress_id: 561
+categories:
+- Devoxx
+tags:
+- Devoxx
+---
+
+Très prochainement mon retour de Devoxx 2010 avec photos !
+Stay Tuned Guys !
+
+Déjà en ligne :
+
+
+
+	
+  * [Java User Groups Leaders meeting à Devoxx](http://www.normandyjug.org/devoxx/java-user-groups-leaders-bof/)
+
+
+  * [C'est quoi Devoxx ?](http://www.normandyjug.org/devoxx/cest-quoi-devoxx/)
+
+
+
+

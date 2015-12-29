@@ -1,0 +1,21 @@
+---
+author: yann.petit
+comments: true
+date: 2014-10-01 19:40:33+00:00
+layout: post
+slug: big-data
+title: 'Big Data '
+wordpress_id: 2031
+---
+
+Ce jeudi 2 Octobre 2014, se tient à la CCI de Rouen une conférence sur le thème du BigData.
+
+Retrouvez le livestream de cet évènement ICI :
+
+
+
+
+
+
+
+

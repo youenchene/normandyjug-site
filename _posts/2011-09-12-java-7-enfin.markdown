@@ -1,0 +1,110 @@
+---
+author: yann.petit
+comments: true
+date: 2011-09-12 16:01:08+00:00
+layout: post
+slug: java-7-enfin
+title: Java 7 enfin !
+wordpress_id: 1046
+categories:
+- News
+- Soirée
+tags:
+- java
+- java7
+- jug
+- Soirée
+---
+
+
+[![](http://www.normandyjug.org/wp-content/uploads/2011/09/Java7.png)](http://www.normandyjug.org/wp-content/uploads/2011/09/Java7.png)
+
+
+Venez nombreux** le mardi 20 septembre à 19h00** à [l'eXia/CESI de Rouen/Mont Saint Aignan](http://maps.google.fr/maps?oe=utf-8&rls=com.ubuntu:en-US:official&client=firefox-a&um=1&ie=UTF-8&q=eXia+CESI+Rouen&fb=1&gl=fr&hq=eXia+CESI&hnear=Rouen&cid=0,0,14303900307713815448&ei=VLLMSrNth5OMB4j5_YIH&sa=X&oi=local_result&ct=image&resnum=1)
+
+
+
+La distribution de T-shirts Java7 sera donc de mise !   
+
+[![](http://www.normandyjug.org/wp-content/uploads/2011/09/java7-front-150x150.jpg)](http://www.normandyjug.org/wp-content/uploads/2011/09/java7-front.jpg)
+
+
+
+Cette soirée sera l’occasion de présenter :
+
+
+
+
+
+	
+  * les nouveautés de Java7 (nio2, project coin, invokedynamics, fork-join ...)
+
+	
+  * de discuter de comment en est-on arrivés là techniquement et politiquement
+
+	
+  * et d'aborder l'avenir de Java
+
+
+
+
+
+===> [ INSCRIPTION GRATUITE ](http://jugevents.org/jugevents/event/show.html?id=41425)<==
+
+
+
+
+
+
+Alors venez au prochain NormandyJUG !
+
+
+
+[[![](http://www.normandyjug.org/wp-content/uploads/2011/09/alexismp.jpeg)](http://www.normandyjug.org/wp-content/uploads/2011/09/alexismp.jpeg)](http://blogs.oracle.com/alexismp/)
+
+Alexis Moussine-Pouchkine est membre de l'équipe Glassfish et fut ces dernières années un des ambassadeurs de ce projet. Il intervient régulièrement dans des conférences internationales telles que  Devoxx, Jazoon, JavaZone, JFokus or JavaOne et est l'éditeur du blog [TheAquarium](http://blogs.oracle.com/theaquarium/). Alexis était déjà venu nous présenter glassfish V3 et JavaEE6 l'an dernier. 
+
+Vous pouvez retrouver Alexis sur son blog : [Le Bistro !](http://blogs.sun.com/alexismp)
+
+
+
+
+
+
+
+* * *
+
+
+
+
+
+Nos sponsors :
+
+
+Exceptionnellement cette soirée sera sponsorisée directement par Oracle !   
+
+[![](http://www.normandyjug.org/wp-content/uploads/2011/09/oralogo-small.gif)](http://www.normandyjug.org/wp-content/uploads/2011/09/oralogo-small.gif)  
+  
+
+
+
+
+[![](http://www.normandyjug.org/wp-content/uploads/2009/12/logo_enovea.jpg)](http://www.enovea.net/)
+
+
+[![](http://www.normandyjug.org/wp-content/uploads/2011/04/agileit1.png)](http://www.normandyjug.org/wp-content/uploads/2011/04/agileit1.png)
+
+
+[![jetbrains](http://www.normandyjug.org/wp-content/uploads/2009/12/jetbrains_banner_120x60.gif)](http://www.jetbrains.com)
+
+[![JRebel logo](http://www.zeroturnaround.com/wp-content/themes/zeroturnaround4.0/gfx/i_jrebel_logo.png)](http://www.zeroturnaround.com)
+
+Qui nous donnent la possibilité d'offrir des licences IntelliJ ou JRebel.
+
+Merci également à :
+
+
+[![eXia CESI](http://www.normandyjug.org/wp-content/uploads/2011/04/logo.png)](http://www.normandyjug.org/wp-content/uploads/2011/04/logo.png)
+
+
+Qui nous héberge tous les mois gracieusement dans leurs locaux !

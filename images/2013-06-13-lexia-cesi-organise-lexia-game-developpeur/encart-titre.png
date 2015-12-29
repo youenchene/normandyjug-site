@@ -1,0 +1,514 @@
+<!doctype html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<title>La page est introuvable - exia.CESI</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	
+	<link rel="stylesheet" href="https://exia.cesi.fr/wp-content/themes/eice/style.css" media="all" />
+	<script type="text/javascript" src="/wp-content/themes/eice/assets/js/min/main.min.js"></script>
+	
+<!-- This site is optimized with the Yoast SEO plugin v3.0.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="La page est introuvable - exia.CESI" />
+<meta property="og:site_name" content="exia.CESI" />
+<meta property="fb:app_id" content="873691439385597" />
+<meta property="og:image" content="https://exia.cesi.fr/wp-content/themes/eice/assets/images/logo-header.png" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="La page est introuvable - exia.CESI"/>
+<meta name="twitter:site" content="@exiacesi"/>
+<meta name="twitter:image" content="https://exia.cesi.fr/wp-content/themes/eice/assets/images/logo-header.png"/>
+<!-- / Yoast SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/exia.cesi.fr\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),c.toDataURL().length>3e3):("simple"===a?d.fillText(String.fromCharCode(55357,56835),0,0):d.fillText(String.fromCharCode(55356,57135),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fc-form-css-css'  href='https://exia.cesi.fr/wp-content/plugins/nCrafts-formcraft3-083f7717892d0b7f1e7ba92cbb16110fe5ce5095/assets/css/form.min.css?ver=3.2.10' type='text/css' media='all' />
+<script type='text/javascript' src='https://exia.cesi.fr/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://exia.cesi.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://exia.cesi.fr/wp-content/plugins/ja_slideshows/jquery.bxslider/jquery.bxslider.min.js'></script>
+<script type='text/javascript' src='https://exia.cesi.fr/wp-content/plugins/ja_slideshows/ja_slideshow.js'></script>
+<link rel='https://api.w.org/' href='https://exia.cesi.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://exia.cesi.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://exia.cesi.fr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4" />
+	
+</head>
+<body>
+
+	<!--
+		SEARCH
+	-->
+	
+	<div class="search-zone">
+		<form action="https://exia.cesi.fr" method="GET" class="search-bar">
+			<input type="text" value="" name="s" id="s" class="field" placeholder="Votre recherche" />
+			<button class="submit">Ok</button>
+		</form>
+	</div>
+	
+	<!--
+		HEADER
+	-->
+	
+	<header class="header-wrapper">
+		
+		<div class="social-zone">
+
+			<div class="social-zone-inner">
+				<a href="https://exia.cesi.fr/contact/" class="link icon-uniE602"></a>
+				<a href="https://www.facebook.com/Exia.Cesi" target="_blank" class="link icon-f"></a>
+				<a href="https://twitter.com/exiacesi" target="_blank" class="link icon-tweeter"></a>
+				<a href="https://www.youtube.com/playlist?list=PLox3niDoWNEOInXWCfTZVG3EitMToXyK1" target="_blank" class="link icon-youtube"></a>
+				<a href="" class="link search-trigger icon-loupe"></a>
+			</div>
+			
+		</div>
+		
+		<div class="wpr">
+			
+			<div class="header-logo">
+				
+				<a href="/" class="homelink">
+					<img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/logo-header.png" alt="CESI" class="logo" />
+				</a>
+
+				<button class="icon-menu mobile-burger"></button>
+				
+			</div>
+			
+			<nav class="header-navs">
+				
+				<ul class="second-menu">
+					<li class="item">
+						L'École d'ingénieurs
+						<ul class="second-menu-drop">
+							<li class="item"><a href="https://exia.cesi.fr/ecole-ingenieur-informatique/" class="link">Présentation de l'école</a></li>
+							<li class="item"><a href="https://exia.cesi.fr/ecole-ingenieur-informatique/le-cursus/" class="link">Cursus</a></li>
+							<li class="item"><a href="https://exia.cesi.fr/ecole-ingenieur-informatique/pedagogie-pbl/" class="link">La pédagogie</a></li>
+							<li class="item"><a href="https://exia.cesi.fr/ecole-ingenieur-informatique/classement-palmares/" class="link">Classements et palmarès</a></li>
+							<li class="item"><a href="https://exia.cesi.fr/ecole-ingenieur-informatique/vie-campus/" class="link">La vie sur les campus</a></li>
+							<li class="item"><a href="https://exia.cesi.fr/ecole-ingenieur-informatique/studying-in-france/" class="link">Studying in France</a></li>
+						</ul>   
+					</li>
+					<li class="item -sep">|</li>
+					<!-- <li class="item">
+						Les métiers de l'ingénierie
+						<ul class="second-menu-drop">
+							<li class="item"><a href="" class="link">Ingénieur BTP</a></li>
+							<li class="item"><a href="" class="link">N+</a></li>
+						</ul>
+					</li>
+					<li class="item -sep">|</li> -->
+					<li class="item">
+                        La recherche
+                        <ul class="second-menu-drop">
+                            <li class="item"><a href="https://exia.cesi.fr/recherche-ingenierie-informatique/" class="link">Présentation</a></li>
+                            <li class="item"><a href="https://exia.cesi.fr/recherche-ingenierie-informatique/fablab/" class="link">Les fablabs</a></li>
+                        </ul>
+                    </li>
+					<li class="item -sep">|</li>
+					<li class="item"><a href="https://exia.cesi.fr/ingenieur-informatique-international-erasmus/" class="link">L'international</a></li>
+					<li class="item -sep">|</li>
+					<li class="item">
+                        Entreprises
+                        <ul class="second-menu-drop">
+                            <li class="item"><a href="https://exia.cesi.fr/entreprises-devenir-partenaire/" class="link">Devenir partenaire de l'exia.CESI</a></li>
+                            <li class="item"><a href="https://exia.cesi.fr/entreprises-devenir-partenaire/embaucher-stagiaire/" class="link">Recruter un stagiaire de l'exia.CESI</a></li>
+                        </ul>
+                    </li>
+					<li class="item -sep">|</li>
+					<li class="item"><a href="https://exia.cesi.fr/actualites/" class="link">Actualités</a></li>
+					<li class="item -sep">|</li>
+					<li class="item"><a href="https://exia.cesi.fr/contact/" class="link">Contact</a></li>
+				</ul>
+				
+				<ul class="main-menu">
+					<li class="item">
+						<a href="https://exia.cesi.fr/classe-preparatoire-informatique/" class="link">Ingénieur (1er cycle)</a>
+					</li>
+					<!-- <li class="item -sub -engineer">
+						Cycle ingénieur
+						<div class="menu-dropdown -engineer">
+							<div class="group">
+								<a href="https://exia.cesi.fr/formation-ingenieur-informatique/" class="button">Cycle ingénieur</a>
+								<a href="" class="button">Cycle ingénieur en apprentissage</a>
+								<a href="" class="button">Cycle ingénieur en formation continue</a>
+							</div>
+						</div>
+					</li> -->					
+					<li class="item">
+						<a href="https://exia.cesi.fr/formation-ingenieur-informatique/" class="link">Ingénieur (2ème cycle)</a>
+					</li>
+					<li class="item">
+						Admission
+						<div class="menu-dropdown -engineer">
+							<div class="group">
+								<a href="https://exia.cesi.fr/candidature-preinscription/" class="button">Demande d'information</a>
+								<a href="https://exia.cesi.fr/candidature-preinscription/conditions-admission/" class="button">Admission post bac</a>
+								<a href="https://exia.cesi.fr/candidature-preinscription/admission-post-bac-2/" class="button">Admission post bac+2</a>
+							</div>
+						</div>									
+					</li>
+					<li class="item">
+						<a href="https://exia.cesi.fr/ecole-informatique-france/" class="link">Nos campus</a>
+					</li>					
+				</ul>
+				
+			</nav>
+
+			<!-- 
+				MOBILE
+			-->
+
+			<nav class="mobile-navs">
+
+				<div class="mobile-search">
+					<form action="https://exia.cesi.fr" method="GET" class="mobile-searchbar">
+						<input type="text" value="" name="s" id="s" class="field" placeholder="Votre recherche" />
+						<button class="submit icon-search"></button>
+					</form>
+				</div>
+
+				<ul class="mobile-main">
+					<li class="item -sub -prep">
+						<a href="https://exia.cesi.fr/classe-preparatoire-informatique/" class="link">Ingénieur (1er cycle)</a>
+					</li>
+					<li class="item -sub -engineer">
+						<a href="https://exia.cesi.fr/formation-ingenieur-informatique/" class="link">Ingénieur (2ème cycle)</a>
+					</li>
+					<li class="item -sub -master">
+						<a href="https://exia.cesi.fr/candidature-preinscription/" class="link">Demande d'information</a>	
+					</li>
+					<li class="item">
+						<a href="https://exia.cesi.fr/candidature-preinscription/conditions-admission/" class="link">Admission post bac</a>		
+					</li>
+					<li class="item">
+						<a href="https://exia.cesi.fr/candidature-preinscription/admission-post-bac-2/" class="link">Admission post bac+2</a>		
+					</li>
+					<li class="item">
+						<a href="https://exia.cesi.fr/ecole-informatique-france/" class="link">Nos campus</a>				
+					</li>
+				</ul>
+
+				<ul class="mobile-second">
+					<li class="item">
+						L'École d'ingénieur
+						<div class="mobile-dropdown -prep">
+							<a href="https://exia.cesi.fr/ecole-ingenieur-informatique/" class="link">Présentation de l'école</a>
+							<a href="https://exia.cesi.fr/ecole-ingenieur-informatique/classement-palmares/" class="link">Classements et palmarès</a>
+							<a href="" class="link">Nos formations BTP</a>
+							<a href="" class="link">Nos formations industrie et services</a>
+							<a href="" class="link">L'alternance</a>
+							<a href="" class="link">La formation continue</a>
+							<a href="" class="link">La VAE</a>
+							<a href="https://exia.cesi.fr/ecole-ingenieur-informatique/vie-campus/" class="link">La vie sur les campus</a>
+							<a href="https://exia.cesi.fr/ecole-ingenieur-informatique/studying-in-france/" class="link">Studying in France</a>
+						</div>
+					</li>
+					<li class="item">
+						<a href="" class="link">Les métiers de l'ingénierie</a>
+						<div class="mobile-dropdown -prep">
+							<a href="" class="link">Ingénieur BTP</a>
+							<a href="" class="link">N+</a>
+						</div>
+					</li>
+					<li class="item"><a href="https://exia.cesi.fr/recherche-ingenierie-informatique/" class="link">La recherche</a></li>
+					<li class="item"><a href="https://exia.cesi.fr/ingenieur-informatique-international-erasmus/" class="link">L'international</a></li>
+					<li class="item"><a href="https://exia.cesi.fr/entreprises-devenir-partenaire/" class="link">Entreprises</a></li>
+					<li class="item"><a href="https://exia.cesi.fr/actualites/" class="link">Actualités</a></li>
+					<li class="item"><a href="https://exia.cesi.fr/contact/" class="link">Contact</a></li>
+				</ul>
+				
+			</nav>
+
+		</div>
+		
+	</header>
+	
+	<div class="main-content">
+		
+        <!-- fil d'ariane défini automatiquement par le plugin Yoat SEO -->
+
+		<p class="g-text -breadcrumbs">
+			<span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="https://exia.cesi.fr" rel="v:url" property="v:title">exia.CESI</a> / <span rel="v:child" typeof="v:Breadcrumb"><a href="https://exia.cesi.fr/actualites/" rel="v:url" property="v:title">Actualités</a> / <span class="breadcrumb_last">Erreur 404: Page introuvable</span></span></span></span>		</p>
+	<div class="wpr">
+		
+		<section class="g-maincontent">
+			
+			<div class="g-maincontent-inner">
+
+				<h1 class="g-title">Page introuvable</h1>
+
+				<h3>La page que vous recherchez est indisponible !</h3>
+			
+				<p class="g-text">Peut-être cherchez-vous :</p>
+				<ul>
+					<li><a href="/">...</a></li>
+					<li><a href="/contact/">Nous contacter</a></li>
+				</ul>
+
+			</div>
+
+		
+		</section>
+		
+		<aside class="g-aside">
+
+	<!-- page "Recruter un stagiaire de l'exia.CESI" -->
+	
+
+			<div class="biglinkbox-block -study">			
+			<p class="text">
+				<span class="bg">Studying</span><br>
+				<span class="bg -upper">in france</span>
+			</p>
+			<a href="https://exia.cesi.fr/ecole-ingenieur-informatique/studying-in-france/" class="g-button -biglinkbox"><span class="hborder">+ d'infos</span></a>			
+		</div>
+	
+
+			<div class="biglinkbox-block -enterprise">			
+			<p class="text">
+				<span class="bg">Nos solutions pour</span><br>
+				<span class="bg -upper">les entreprises</span>
+			</p>
+			<a href="https://exia.cesi.fr/entreprises-devenir-partenaire/" class="g-button -biglinkbox -enterprise"><span class="hborder">+ d'infos</span></a>			
+		</div>
+	
+
+			<a href="https://exia.cesi.fr/contact/" class="a-phone-block">
+			<div class="phone-block">
+				
+				<img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/linkbox_big_phone.jpg" alt="" class="illu">
+
+				<div class="phone-block-content">
+					<span class="text -big">Mon inscription</span>
+					<span class="text">par téléphone</span>
+
+					<div class="phone icon-phone">0800&nbsp;054&nbsp;568</div>
+				</div>
+
+			</div>
+		</a>
+	
+
+</aside>
+		
+	</div>
+
+
+
+		<section class="home-offers">
+
+			<div class="box -stack -cycle">
+				
+				<div class="inner">
+					<figure class="linkbox-picture -tall imgl">
+						<img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/home_block_prep.jpg" alt="Nos cycles préparatoires" class="image">
+						<figcaption class="legend -large">Ingénieur (1er cycle)</figcaption>
+					</figure>
+					<div class="linkbox-hcontent">
+						<a href="https://exia.cesi.fr/classe-preparatoire-informatique/" class="link -wired"><span class="hborder">Ingénieur (1er cycle)</span></a> 
+					</div>
+				</div>
+				
+			</div>
+			<div class="box -stack -cycle">
+				
+				<div class="inner">
+					<figure class="linkbox-picture -tall imgl">
+						<img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/home_block_engineer.jpg" alt="Notre cycle ingénieur" class="image">
+						<figcaption class="legend -large">Ingénieur (2ème cycle)</figcaption>
+					</figure>
+					<div class="linkbox-hcontent">
+						<a href="https://exia.cesi.fr/formation-ingenieur-informatique/" class="link -wired"><span class="hborder">Ingénieur (2ème cycle)</span></a> 
+					</div>
+				</div>
+				
+			</div>
+			<div class="box -stack -cycle">
+				
+				<div class="inner">
+					<figure class="linkbox-picture -tall imgl">
+						<img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/home_block_enterprise.jpg" alt="Notre offre entreprise" class="image">
+						<figcaption class="legend -large">Notre offre entreprise</figcaption>
+					</figure>
+					
+					<div class="linkbox-hcontent">
+						<a href="https://exia.cesi.fr/entreprises-devenir-partenaire/" class="link -wired"><span class="hborder">Devenir partenaire de l'exia.CESI</span></a>  
+						<a href="https://exia.cesi.fr/entreprises-devenir-partenaire/embaucher-stagiaire/" class="link -wired"><span class="hborder">Recruter un stagiaire de l’exia.CESI</span></a>  
+						<!-- <a href="" class="link -wired"><span class="hborder">Embaucher un contrat d'alternance</span></a>   -->
+						<!-- <a href="" class="link -wired"><span class="hborder">Déposer une offre de stage, d'alternance ou d'emploi</span></a>   -->
+					</div>
+				</div>
+				
+			</div>
+			
+		</section>
+
+	</div>
+
+	
+	<footer class="footer-blocks">
+		
+		<div class="wpr">
+			<div class="footer-block">
+									<div class="g-title -medium -footer"><a href="https://exia.cesi.fr/actualites/" class="link">Actualités</a></div>
+								
+				
+					<div class="news-block -small">
+						<figure class="picture imgl">
+							<img width="111" height="111" src="https://exia.cesi.fr/wp-content/uploads/2015/11/Bannière-JPO-STNAZ-EXIA-2016-111x111.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="JPO exia.CESI" />							<time datetime="2015-12-28" class="date-box -smallnews"><span class="day">28</span>12</time>
+						</figure>
+						<div class="content">
+
+							<h4 class="g-title -verysmall">Journée Portes Ouvertes – Samedi 23 janvier 2016</h4>
+
+							<p class="text">
+								Venez à la rencontre des étudiants et de l’équipe de l’école d’in…
+							</p>
+
+							<a href="https://exia.cesi.fr/journee-portes-ouvertes-campus-saint-nazaire/" class="link -more"><span class="hborder">Lire la suite</span></a>
+						</div>
+					</div>
+
+				
+					<div class="news-block -small">
+						<figure class="picture imgl">
+							<img width="111" height="111" src="https://exia.cesi.fr/wp-content/uploads/2015/11/Bannière-JPO-STNAZ-EXIA-2016-111x111.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="JPO exia.CESI" />							<time datetime="" class="date-box -smallnews"><span class="day">28</span>12</time>
+						</figure>
+						<div class="content">
+
+							<h4 class="g-title -verysmall">Réunion d&rsquo;information &#8211; Samedi 23 janvier 2016</h4>
+
+							<p class="text">
+								Intégrez à la rentrée 2016 l’exia.CESI, l'école d'ingénieurs spécia…
+							</p>
+
+							<a href="https://exia.cesi.fr/reunion-information-campus-la-rochelle/" class="link -more"><span class="hborder">Lire la suite</span></a>
+						</div>
+					</div>
+
+				
+					<div class="news-block -small">
+						<figure class="picture imgl">
+							<img width="111" height="111" src="https://exia.cesi.fr/wp-content/uploads/2015/08/exia-etudiant-ecole-ingenieur-111x111.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="exia-etudiant-ecole-ingenieur" />							<time datetime="2015-12-22" class="date-box -smallnews"><span class="day">22</span>12</time>
+						</figure>
+						<div class="content">
+
+							<h4 class="g-title -verysmall">Yves Mauffette reçoit le Prix de l’ADARUQ 2015</h4>
+
+							<p class="text">
+								Yves Mauffette, co-concepteur de la pédagogie de l’exia.CESI, professeur…
+							</p>
+
+							<a href="https://exia.cesi.fr/yves-mauffette-recoit-le-prix-de-ladaruq-2015/" class="link -more"><span class="hborder">Lire la suite</span></a>
+						</div>
+					</div>
+
+												
+			</div>
+
+			
+			<!-- centre de formation -->
+			<div class="footer-block">
+									<div class="g-title -medium -footer"><a href="https://exia.cesi.fr/ecole-informatique-france/" class="link">Les campus de l'école d'ingénieurs</a></div>
+								
+				<ul class="list">
+																					<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-aix-en-provence/" class="link">Aix-en-Provence</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-arras/" class="link">Arras</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-bordeaux/" class="link">Bordeaux</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-la-rochelle/" class="link">La Rochelle</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-lille/" class="link">Lille</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-lyon/" class="link">Lyon</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-nancy/" class="link">Nancy</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-nice/" class="link">Nice</a></li>
+																								</ul><ul class="list">
+																<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-orleans/" class="link">Orléans</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-paris-nanterre/" class="link">Paris &#8211; Nanterre</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-pau/" class="link">Pau</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-reims/" class="link">Reims</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-rouen-mont-st-aignan/" class="link">Rouen &#8211; Mont-St-Aignan</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-saint-nazaire/" class="link">Saint-Nazaire</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-strasbourg/" class="link">Strasbourg</a></li>
+																							<li class="item -bull"><a href="https://exia.cesi.fr/ecole-informatique-toulouse/" class="link">Toulouse</a></li>
+																	</ul>
+			</div> 
+			
+			<!-- widgets réseaux sociaux -->
+			<div class="footer-block">
+									<div class="g-title -medium -footer">Réseaux sociaux</div>
+								
+				<!-- widget twitter -->
+				<a class="twitter-timeline" href="https://twitter.com/exiacesi" data-widget-id="641529578989711360">Tweets de @exiacesi</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				
+				<!-- widget facebook -->
+				<div class="fb-page" data-href="https://www.facebook.com/Exia.Cesi" data-width="276" data-height="210" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/Exia.Cesi"><a href="https://www.facebook.com/Exia.Cesi">Exia</a></blockquote></div></div>
+				
+			</div>
+		</div>	 
+		
+	</footer>
+
+			
+	<footer class="footer-logos">
+		<a href="http://www.cesi.fr/" target="_blank" class="link"><img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/logo-footer-cesi.png" alt="CESI" class="logo"></a>
+		<a href="http://www.eicesi.fr/" target="_blank" class="link"><img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/logo-footer-cesi-eice.png" alt="CESI EICE" class="logo"></a>
+		<a href="http://www.cesi-alternance.fr/" target="_blank" class="link"><img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/logo-footer-cesi-alternance.png" alt="CESI alternance" class="logo"></a>
+		<a href="http://www.cesi-entreprises.fr/" target="_blank" class="link"><img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/logo-footer-cesi-enterprise.png" alt="CESI entreprise" class="logo"></a>
+		<a href="http://www.cesi-certification.fr/" target="_blank" class="link"><img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/logo-footer-cesi-certification.png" alt="CESI certificatio"n class="logo"></a>
+		<a href="http://www.cesialumni.fr/" target="_blank" class="link"><img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/logo-footer-cesi-alumni.png" alt="CESI Alumni" class="logo"></a>
+		<a href="http://www.cesi.fr/campus" target="_blank" class="link"><img src="https://exia.cesi.fr/wp-content/themes/eice/assets/images/logo-footer-campus.png" alt="Campus" class="logo"></a>
+	</footer>
+
+	<footer class="footer-text" style="text-align:center">
+		<a href="https://exia.cesi.fr/mentions-legales/" target="_blank" class="link">Mentions légales</a> | 
+		<a href="https://exia.cesi.fr/plan-site/" target="_blank" class="link">Plan du site</a>
+	</footer>	
+
+
+	<!--- js fb -->
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.4&appId=148150702060215";
+	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<!-- fin js fb -->
+	
+	<script type='text/javascript' src='https://exia.cesi.fr/wp-includes/js/wp-embed.min.js'></script>
+
+	<!-- Analytics Exia -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-403669-2', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+</body>
+</html>
