@@ -4,7 +4,7 @@ title: Accueil
 ---
 
 {%  for post in paginator.posts %}
-  <div style="margin-bottom: 50px;">
+  <div class="article">
   <h2><a href="{{  post.date | date: "%Y/%m/%d" }}/{{ post.slug }}">{{ post.title }}</a></h2>
   <div style="margin: 15px 0px;">
     <span class="label label-default">{{  post.date | date: "%d/%m/%Y" }}</span>

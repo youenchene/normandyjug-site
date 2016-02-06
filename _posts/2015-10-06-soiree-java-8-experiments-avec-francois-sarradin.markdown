@@ -37,7 +37,7 @@ Dans cette présentation, je vous propose de découvrir ensemble ce qu’il est 
 Manager technique capitalisation chez [Ippon Technologies](http://www.ippon.fr/), je suis passionné par tout ce qui touche de près ou de loin au développement (craftsmanship, agilité, big data, devops) et en particulier à la programmation fonctionnelle. Je m'occupe aussi du site [http://www.brownbaglunch.fr/]().
 
 
-  
+
 
 
 
@@ -66,7 +66,7 @@ Manager technique capitalisation chez [Ippon Technologies](http://www.ippon.fr/)
 Un nouveau lieu pour ce JUG, [Coworking Now](http://now-coworking.com/), le nouvelle espace de coworking qui ouvre 53 Boulevard des Belges à Rouen:
 
 
-[![coworking now](http://www.normandyjug.org/wp-content/uploads/2015/10/now-1024x1024.jpg)](http://www.normandyjug.org/wp-content/uploads/2015/10/now.jpg)
+[![coworking now](http://www.normandyjug.org/wp-content/uploads/2015/10/now-300x300.jpg)](http://www.normandyjug.org/wp-content/uploads/2015/10/now.jpg)
 
 
 
@@ -81,5 +81,5 @@ La soirée est sponsorisé par Creative Data, la plateforme Big Data prête à l
 
 
 [
-![2015-04-30_LogoNomEtBaseline_vertical](http://www.normandyjug.org/wp-content/uploads/2015/05/2015-04-30_LogoNomEtBaseline_vertical-1024x717.png)
+![2015-04-30_LogoNomEtBaseline_vertical](http://www.normandyjug.org/wp-content/uploads/2015/05/2015-04-30_LogoNomEtBaseline_vertical-300x210.png)
 ](http://www.creativedata.fr)

@@ -41,5 +41,9 @@ h2 a ,h2 a:hover{
 }
 
 .title-part {
-	height: 170px;
+	height: 150px;
+}
+
+.article {
+	margin-bottom: 80px;
 }
