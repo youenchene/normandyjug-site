@@ -3,7 +3,7 @@ author: youen.chene
 comments: true
 date: 2016-05-15 16:54:04+02:00
 layout: post
-slug: soiree-vertx/
+slug: soiree-vertx
 title: Soirée Vertx avec Clément Escoffier
 wordpress_id: 2161
 categories:

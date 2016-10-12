@@ -3,7 +3,7 @@ author: rudy.baer
 comments: true
 date: 2016-10-11 16:54:04+02:00
 layout: post
-slug: dette-technique-integration-deploiment-github/
+slug: dette-technique-integration-deploiment-github
 title: Dette technique, Intégration et déploiement en continu @ Github
 wordpress_id: 2162
 categories:

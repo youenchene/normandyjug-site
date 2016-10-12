@@ -3,7 +3,7 @@ author: youen.chene
 comments: true
 date: 2016-05-13 07:00:04+02:00
 layout: post
-slug: agenda-et-cfp/
+slug: agenda-et-cfp
 title: Agenda et CFP
 wordpress_id: 2161
 categories:
